@@ -1,0 +1,6 @@
+name="afrin"
+age=20
+city="anand"
+language="python"
+
+print("my name is",name, "i am",age,"years old","i am live in",city,"i am learnig",language)
